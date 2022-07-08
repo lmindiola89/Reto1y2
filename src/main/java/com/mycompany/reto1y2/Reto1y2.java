@@ -18,6 +18,6 @@ public class Reto1y2 {
         ClsCalcula cal = new ClsCalcula();
         
         cal.IniciaPrograma();       
-      // hola mundo 
+        
     }
 }
